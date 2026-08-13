@@ -14,8 +14,8 @@ The moment i discovered how different people live in this world and how differen
 In my other life i am an electrical engineer, or at least i am trying to become one. I've always had an affinity to build stuff. I always wanted to build something beyond my abilities, beyond my knowledge and beyond my means. I think if life would have been different i may have built a steam locomotive. 
 I enjoyed surrounding myself with computers and electrical components to build stuff, which didn't always work out. I started repairing phones with 13, buying them second hand, repairing them and selling them. Ever since i also collected video game consoles, repaired them (as far as possible) and enjoyed them. Now in university i had the privilege of starting and finishing (!) projects. I am trying to use my time wisely in this last year of my bachelors degree to finish some projects i'd like to share with you, dear reader, in the future!
 
-I'd like to end my first Blog Post with a quote from Mr. Antoine de Saint-Exupéry : "“If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
-I am not allowed to share where i saw this quote the first time (signed a NDA) but i can tell you that it had a lasting impression on me!
+I'd like to end my first Blog Post with a quote from Mr. Antoine de Saint-Exupéry : “If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn for the vast and endless sea.”
+I am not allowed to share where i saw this quote the first time (signed a NDA) but i can tell you that it has a lasting impression on me!
 
 Godspeed,
 
