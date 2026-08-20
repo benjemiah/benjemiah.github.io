@@ -6,7 +6,7 @@ That is why i want to create a list of my current projects to have some kind of 
 
 Project List (2026):
 - Ribbon Microphone
-![[Pasted image 20260814123411.png]]
+![Image](https://cdn.mos.cms.futurecdn.net/JtcfFL26oJSepm9sdFLGu3-650-80.jpg.webp)
 	A ribbon microphone is an early type of dynamic microphone. A corrugated, conductive metal strip (aluminium in this case, copper is too heavy) suspended in an electromagnetic field moves according to the soundwaves hitting it. A voltage is induced and by amplifying it with  a 1:37 transformer you can capture a beautiful and warm sound! I was inspired by this video: https://www.youtube.com/watch?v=jkF-g9pnBSg, it makes it seem incredibly easy to make. Looking forward to finishing this soon! I bought the transformer, the case and the XLR-connector on taobao; the motor will be 3d-printed (probably)
 
 - Re-Cap'ing my Apple LC II
